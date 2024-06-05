@@ -1,0 +1,74 @@
+/* *{
+    box-sizing: border-box;
+    margin: ;
+    padding: ;
+    outline-offset: ;
+    display: block;
+    display: inline;
+    display: inline-block;
+    list-style-type: ;
+    display: none;
+    visibility: ;
+    opacity: ;
+    bakground-imge,bakground-repeat,no-repeat,round,space & size
+    background position, attachment
+    gradient
+} */
+
+
+/* div{
+    height: 400px;
+    color: red;
+    cursor: pointer;
+} */
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+div{
+    min-height:100vh;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+    
+}
+
+.big-img{
+    background:url("./images/laptop.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+/* .small-img{
+    border: 2px solid black;
+    background:url("./images/PORTFOLIO\ 1.png");
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    
+} */
+.small-img{
+    border: 2px solid black;
+    background:url("./images/PORTFOLIO\ 1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+    
+}
+.folder-img{
+    background:url("./images/mock\ up5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}

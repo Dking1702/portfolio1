@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#navigator{
+    background-color: rgb(0, 0, 0);
+    background-size: contain;
+
+}
+
+
+
+#navedit{
+    padding-left: 10px;
+    background-color: black;
+    border: solid; color: rgb(102, 255, 0);
+    word-spacing: 2rem;
+}
+
+h3{
+    padding-left: 100px;
+    /* background-color: aliceblue; */
+    color: rgb(255, 255, 255);
+}
+
+a{
+    text-transform: 1 rem;
+    color: rgb(200, 255, 0);
+    text-decoration: none;
+    font-size: 20px;
+    }
+
+    .images{
+    
+    }
+
+
+img{
+    margin-left: 50px;
+    border-style: solid; color: rgb(102, 255, 0);
+    width: 90vw;
+    
+
+}
+
+#Top{
+    margin-left: 50px;
+    border-style: solid; color: rgb(102, 255, 0); background-color: black;
+}
+

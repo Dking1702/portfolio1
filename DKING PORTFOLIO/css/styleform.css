@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#navigator{
+    background-color: rgb(0, 0, 0);
+    /* background-image: url(./images/art\ is\ look.png); */
+    /* background-repeat: round; */
+    /* background-repeat: space; */
+    background-repeat: round;
+    background-size: cover;
+    background-attachment:fixed;
+    word-spacing: 2rem;
+    cursor: pointer;
+}
+
+#box{
+    margin-left: -10px;
+    padding-left: 15px;
+    background-color: rgb(0, 0, 0);
+    
+}
+
+a{
+    color: rgb(200, 255, 0);
+    text-decoration: none;
+    
+    
+}

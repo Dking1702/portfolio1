@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+    color: rgb(42, 225, 238);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 200px;
+      
+}
+.Massage{
+    background-color: rgb(0, 0, 0);
+    margin:0px ;
+    padding: 10px 20px 30px 18px;
+    width: 200px;
+    
+}
+
+.spa{
+    background-color: rgb(0, 0, 0);
+    margin-top: -90px;
+    padding: 15px;
+    width:200px;
+}
+
+/*  */
+
+body{
+    background-color: rgb(5, 29, 29);
+    /* background-image:url(./massage/1d.webp);
+    background-size: contain; */
+}
+
+h3{
+    color: rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navigation{
+    color: rgb(255, 255, 255);
+}
+
+p{
+    width: 50%;
+    color: white;
+}
+
+.outer{
+    width: 1500px;
+    background-color: aliceblue;
+    padding-bottom: 10px;
+}
+
+.inner{
+    width: 100%;
+    background-color: aqua;
+    margin-top: -10px; 
+}
+
+a{
+    text-decoration: none;
+    color: rgb(38, 148, 221);
+    font-family: poppins;
+    font-size: medium;
+    padding: 20px;
+    
+}
+
+img{
+    border:rgb(29, 230, 245) solid;
+    width: 500px;
+}
+

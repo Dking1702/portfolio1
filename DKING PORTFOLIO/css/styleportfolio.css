@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+a{
+    text-decoration: none;
+    color: rgb(21, 255, 0);
+
+}
+
+#navigator{
+    marg
+    background-color: black;
+    background-image: url(./images/Graphic\ Design\ Portfolio\ lemon.png);
+    background-image: url(./images/Graphic\ Design\ Portfolio\ lemon.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    background-position: center;
+    background-attachment:fixed;
+    cursor: pointer;
+    
+}
+#box{ 
+    padding-left:10px;
+    background-color: rgb(98, 119, 6);
+    word-spacing: 2rem;
+    
+    
+    
+}
+
+#Tap{
+    margin-top: 10px;
+    padding-left: 50%;
+}
+
+.Top{
+    margin-top: 60px;
+    background-color: rgb(0, 0, 0);
+    
+}
+
+    

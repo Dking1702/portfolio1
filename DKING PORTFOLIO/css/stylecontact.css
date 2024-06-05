@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+div{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 60px;
+    color: orange;
+}
+
+.banner{
+    background: url(./images/dking.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.header{
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('./images/dking.jpg') center/cover no-repeat fixed;
+    
+}
