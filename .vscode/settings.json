@@ -1,0 +1,4 @@
+{
+    "extensions.closeExtensionDetailsOnViewChange": false,
+    "open-in-browser.default": "chrome"
+}
